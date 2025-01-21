@@ -47,6 +47,7 @@ JavaScript.
 Expected Outcome/Output:
 
 The AI-powered blog platform will:
+
 ✔ Enhance the efficiency and consistency of content
 creation. <br>
 ✔ Provide creative and original blog post ideas. <br>
