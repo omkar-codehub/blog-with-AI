@@ -1,0 +1,8 @@
+POST http://localhost:5000/api/posts
+Content-Type: application/json
+Authorization: `Bearer ${token}`
+{
+    "title":"upload through ai",
+    "content":"test",
+    "tags":["#ai"]
+}
